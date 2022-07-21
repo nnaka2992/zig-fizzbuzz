@@ -1,0 +1,4 @@
+# remove any directory created while building
+/zig-cache/
+/zig-out/
+/src/zig-cache/
